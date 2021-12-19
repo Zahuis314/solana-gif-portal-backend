@@ -1,11 +1,11 @@
-[programs.localnet]
-mysolanaproject = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+mysolanaproject = "4oZ1rixYH1xn7vZNNtuKDUTRsoGPLiukfVL2XhmAMaCF"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/murzahell/.config/solana/id.json"
 
 [scripts]
